@@ -1,0 +1,16 @@
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\bin\Debug\Wpf_Task4.exe.config
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\bin\Debug\Wpf_Task4.exe
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\bin\Debug\Wpf_Task4.pdb
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\MainWindow.g.cs
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\App.g.cs
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4_MarkupCompile.cache
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4_MarkupCompile.lref
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\MainWindow.baml
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4.g.resources
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4.Properties.Resources.resources
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4.csproj.GenerateResource.cache
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4.exe
+C:\Users\Hafiz\source\vs2022\Wpf_Task4\Wpf_Task4\obj\Debug\Wpf_Task4.pdb
